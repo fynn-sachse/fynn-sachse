@@ -7,14 +7,14 @@
 ### 👨‍💻 About Me
 
 Hey, nice to have you here!  
-I'm a passionate software developer currently in training, with a strong focus on **Java Fullstack Development** and a deep interest in building robust and elegant software solutions.
+I'm a passionate software developer, with a strong focus on **Java Fullstack Development** and a deep interest in building robust and elegant software solutions.
 Whether it's clean architectures, high-performance logic or solving complex problems – I enjoy turning ideas into reliable, maintainable applications.
 
 ---
 
 ### 🔭 Currently
 
-- 👨‍🎓 Apprentice Software Engineer at **Sopra Financial Technology**
+- 👨‍🎓 Finished Apprenticeship as a Software Engineer at **Sopra Financial Technology**
 - 💡 Enthusiastic about **Clean Code**, **testability** and **continuous learning**
 - 💻 Experience in developing both frontend and backend solutions
 - 🤝 Working with modern technologies and agile practices
