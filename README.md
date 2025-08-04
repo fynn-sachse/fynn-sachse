@@ -15,6 +15,7 @@ Whether it's clean architectures, high-performance logic or solving complex prob
 ### 🔭 Currently
 
 - 👨‍🎓 Finished Apprenticeship as a Software Engineer at **Sopra Financial Technology**
+- 🔭 Looking for a new Job as software developer
 - 💡 Enthusiastic about **Clean Code**, **testability** and **continuous learning**
 - 💻 Experience in developing both frontend and backend solutions
 - 🤝 Working with modern technologies and agile practices
